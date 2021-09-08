@@ -1,3 +1,9 @@
+# v0.0.2 (TBD)
+
+## Added
+* Support for Structural Variants ([#86](https://github.com/elimuinformatics/vcf2fhir/pull/86)).
+* Support for Clinical Annotations ([#89](https://github.com/elimuinformatics/vcf2fhir/pull/89)).
+
 # v0.0.17 (2021-06-30)
 
 ## Added
